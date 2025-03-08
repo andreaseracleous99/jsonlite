@@ -8,7 +8,7 @@ The JsonLite client provides a simple API for working with JSON files, allowing 
 
 # Table of Contents
 
-1. [JsonLite Client Library](#jsonlite-client-library)
+1. [JsonLite Library](#jsonlite-library)
 2. [Features](#features)
 3. [Prerequisites](#prerequisites)
 4. [Getting Started](#getting-started)
