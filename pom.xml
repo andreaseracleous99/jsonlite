@@ -15,7 +15,7 @@
     <packaging>jar</packaging>
 
     <name>jsonlite</name>
-    <description>JsonLite is a lightweight Java library designed to simplify the process of working with JSON data in
+    <description>JsonLite is a lightweight Java library designed to simplify the process of working with JSON files in
         Java applications
     </description>
     <url>https://www.techbasecore.com/</url>
