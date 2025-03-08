@@ -1,4 +1,4 @@
-# JsonLite Client Library
+# JsonLite Library
 
 **JsonLite** is a lightweight Java library designed to simplify the process of working with JSON files in Java applications. It provides easy-to-use operations for manipulating JSON objects, including creating, reading, updating, and deleting records. This library integrates with popular JSON processing tools like Jackson, making it easy to integrate into your Java projects.
 
