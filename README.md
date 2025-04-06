@@ -25,10 +25,10 @@ The JsonLite client provides a simple API for working with JSON files, allowing 
 
 ---
 ## Features
-- Create and manage JSON files
-- Serialize and deserialize objects to/from JSON
-- Support for performing CRUD-like operations (e.g., reading, saving, and querying data) on JSON data inside JSON files 
-- Reflective operations for working with Java objects and their fields
+- Create and manage JSON files.
+- Serialize and deserialize objects to/from JSON.
+- Support for performing CRUD-like operations (e.g., reading, saving, and querying data) on JSON data inside JSON files.
+- Reflective operations for working with Java objects and their fields.
 
 ---
 
