@@ -155,7 +155,7 @@ List<Person> people = client.selectByKey("name", "Test");
 ```java
 // Retrieves a list of objects from the JSON file where a condition is met (based on a lambda condition).
 List<Person> people = client.selectWhere(
-                        object -> ((Person) object).getName().equals("Test") // Condition: Select object where ID is 1
+                        object -> ((Person) object).getName().equals("Test") // Condition: Select object where name is "Test"
 );
 ```
 
@@ -208,7 +208,7 @@ updates.put("city", "UpdatedCity");
         
 // Updates the objects in the JSON file where a condition is met (based on a lambda condition), setting input values on the input keys. Returns true if successful. 
 boolean updateResultMultiple = client.updateWhere(
-                                 object -> ((Person) object).getName().equals("Test"), updates) // Condition: Select object where ID is 1
+                                 object -> ((Person) object).getName().equals("Test"), updates) // Condition: Select object where name is "Test"
                                );
 ```
 
@@ -236,7 +236,7 @@ boolean deleteResult = client.deleteByKey("name", "Test");
 ```java
 // Deletes the objects in the JSON file where a condition is met (based on a lambda condition). Returns true if successful.
 boolean deleteResult = client.deleteWhere(
-                            object -> ((Person) object).getName().equals("Test") // Condition: Select object where ID is 1
+                            object -> ((Person) object).getName().equals("Test") // Condition: Select object where name is "Test"
                         );
 ```
 ---
