@@ -21,8 +21,8 @@
     <url>https://www.devroic.com/</url>
 
     <scm>
-        <connection>scm:git:git://github.com/com-devroic/jsonlite.git</connection>
-        <url>https://github.com/com-devroic/jsonlite/tree/main/</url>
+        <connection>scm:git:https://github.com/andreaseracleous99/jsonlite.git</connection>
+        <url>https://github.com/andreaseracleous99/jsonlite</url>
     </scm>
 
     <licenses>
