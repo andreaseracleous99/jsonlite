@@ -23,9 +23,9 @@ public class InfoMessages {
     }
 
     //Builder Messages
-    public static final String BUILDING_CLIENT = "Building JsonLiteClient with jsonFilePath {} and model type {}";
+    public static final String BUILDING_CLIENT = "Building JsonLiteClient with jsonFilePath {} and model type {}.";
     public static final String BUILDING_CLIENT_COMPLETED = "JsonLiteClient building completed!";
-    public static final String CREATING_FILE = "JSON file not found, creating a new JSON file: {}, jsonFilePath";
+    public static final String CREATING_FILE = "JSON file not found, creating a new JSON file {}.";
 
     //Operations Messages
     public static final String OBJECT_FOUND_BY_ID = "Object with ID {} found.";
