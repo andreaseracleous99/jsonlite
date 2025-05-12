@@ -1,0 +1,30 @@
+[
+	{
+		"id": 1,
+		"name": "John",
+		"city": "New York",
+		"cars": [
+			"Bmw",
+			"Audi"
+		],
+		"brands": [
+			"Addidas",
+			"Nike"
+		],
+		"job": "Software Engineer"
+	},
+	{
+		"id": 2,
+		"name": "Mark",
+		"city": "San Francisco",
+		"cars": [
+			"Mercedes",
+			"Nissan"
+		],
+		"brands": [
+			"Reebok",
+			"Puma"
+		],
+		"job": "Data Scientist"
+	}
+]
