@@ -18,7 +18,7 @@
     <description>JsonLite is a lightweight Java library designed to simplify the process of working with JSON files in
         Java applications
     </description>
-    <url>https://www.devroic.com/</url>
+    <url>https://www.devroic.com/jsonlite</url>
 
     <scm>
         <connection>scm:git:https://github.com/andreaseracleous99/jsonlite.git</connection>
