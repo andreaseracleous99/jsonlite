@@ -4,6 +4,7 @@
 
 The JsonLite client provides a simple API for working with JSON files, allowing users to serialize objects to JSON, deserialize JSON to objects, and validate and manipulate JSON data.
 
+You can find JavaDocs here: https://www.devroic.com/jsonlite/javadocs
 ---
 
 # Table of Contents
