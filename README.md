@@ -4,7 +4,8 @@
 
 The JsonLite client provides a simple API for working with JSON files, allowing users to serialize objects to JSON, deserialize JSON to objects, and validate and manipulate JSON data.
 
-You can find JavaDocs here: https://www.devroic.com/jsonlite/javadocs
+For detailed documentation, check out the JavaDocs [here](https://www.devroic.com/jsonlite/javadocs).
+
 ---
 
 # Table of Contents
@@ -22,6 +23,7 @@ You can find JavaDocs here: https://www.devroic.com/jsonlite/javadocs
         - [Update Operations](#update-operations)
         - [Delete Operations](#delete-operations)
 6. [License](#license)
+7. [Discover More](#discover-more)
 
 
 ---
@@ -247,3 +249,7 @@ boolean deleteResult = client.deleteWhere(
 This project is licensed under the terms of the **GNU General Public License v3.0 (GPL-3.0)**.
 
 See the [GNU General Public License v3.0](https://www.gnu.org/licenses/gpl-3.0.en.html) for more details.
+
+---
+## Discover More
+You can discover more projects from the author at [Devroic.com](https://www.devroic.com)
